@@ -5,4 +5,8 @@ body {
 	background-size: cover;
 	background-repeat: no-repeat;
 }
+p {
+	font-weight: 600;
+	font-size: 15px
+}
 
